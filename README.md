@@ -5,6 +5,17 @@
 📍 Goiânia, Goiás, Brazil  
 🎓 Computer Science Student — Universidade Federal de Goiás (UFG)  
 🔗 [LinkedIn](https://www.linkedin.com/in/igor-reis-braziel-499b00300)
+---
+
+## 📊 GitHub Activity
+
+- 🔥 Consistent daily commits
+- 👨‍💻 Most used languages: JavaScript, TypeScript, Python, Java
+- 💼 Key repositories: [`the-wild-oasis-website`](https://github.com/Igorbraziel/the-wild-oasis-website), [`the-wild-oasis`](https://github.com/Igorbraziel/the-wild-oasis)
+
+[![Igor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igorbraziel&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbraziel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -79,17 +90,6 @@ A simulated online store with product catalog, cart system, and external API int
 
 🛠️ Django, PostgreSQL, Bootstrap  
 📘 [Repository](https://github.com/Igorbraziel/Django_Projeto_E-commerce)
-
----
-
-## 📊 GitHub Activity
-
-- 🔥 Consistent daily commits
-- 👨‍💻 Most used languages: JavaScript, TypeScript, Python, Java
-- 💼 Key repositories: [`the-wild-oasis-website`](https://github.com/Igorbraziel/the-wild-oasis-website), [`the-wild-oasis`](https://github.com/Igorbraziel/the-wild-oasis)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igorbraziel&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbraziel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
