@@ -8,7 +8,6 @@
 ---
 
 ## 📊 GitHub Activity
-[![Igor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=react-dark&area=true&hide_border=true)](https://github.com/Igorbraziel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbraziel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
