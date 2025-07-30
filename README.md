@@ -8,13 +8,8 @@
 ---
 
 ## 📊 GitHub Activity
-
-- 🔥 Consistent daily commits
-- 👨‍💻 Most used languages: JavaScript, TypeScript, Python, Java
-- 💼 Key repositories: [`the-wild-oasis-website`](https://github.com/Igorbraziel/the-wild-oasis-website), [`the-wild-oasis`](https://github.com/Igorbraziel/the-wild-oasis)
-
 [![Igor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igorbraziel&theme=dark)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=react-dark&area=true&hide_border=true)](https://github.com/Igorbraziel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbraziel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
