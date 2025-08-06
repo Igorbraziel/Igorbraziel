@@ -7,12 +7,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/igor-reis-braziel-499b00300)
 ---
 
-## 📊 GitHub Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igorbraziel&theme=react-dark&area=true&hide_border=true)](https://github.com/Igorbraziel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorbraziel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🚀 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
